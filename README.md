@@ -12,7 +12,7 @@ This project requires the following Python libraries:
 
 You can install these dependencies with pip:
 ```bash
-pip install pandas sklearn matplotlib numpy
+pip install pandas sklearn matplotlib numpy´´´
 
 ## Usage
 To use this project, first import your data into an Excel file named ‘A00835903_Registro_Datos.xlsx’. Make sure your data is in the correct columns.
